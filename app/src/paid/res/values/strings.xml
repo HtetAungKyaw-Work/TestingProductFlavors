@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestingProductFlavors</string>
+    <string name="textViewLabel">Hello paid</string>
+</resources>
